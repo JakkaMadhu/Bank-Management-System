@@ -7,8 +7,10 @@ __pycache__/
 .env
 .env.*
 
-# MySQL/DB dumps
-*.sql
+# MySQL/DB dump files
+*_dump.sql
+*.sql.gz
+*.sql.bak
 
 # VS Code
 .vscode/
